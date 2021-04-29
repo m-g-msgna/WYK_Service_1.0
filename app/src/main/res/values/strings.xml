@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WYK Service</string>
+    <string name="start_service">Start WYK Service </string>
+    <string name="stop_service">Stop WYK Service </string>
+
+    <string name="uid">UID</string>
+    <string name="hash">HASH</string>
+
+    <string name="running_notification">WYK Service is Running</string>
+</resources>
